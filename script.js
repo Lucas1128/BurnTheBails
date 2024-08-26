@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { clue: "-37.791669520072645, 144.96187222512796", answer: "Kaz" },
         { clue: '<img src="image.png" alt="Clue Image"><p>What\'s the 4th word on the plaque of the statue?</p>', answer: "Horse" },
         { clue: "America Canada Mexico India", answer: "Max" },
-        { clue: '<audio controls><source src="clue.mp3" type="audio/mpeg">Your browser does not support the audio clue! Go to Flinder's Street Maccas!.</audio>', answer: "3 Burgers" },
+        { clue: '<audio controls><source src="clue.mp3" type="audio/mpeg">Your browser does not support the audio clue! Go to Flinders Street Maccas!</audio>', answer: "3 Burgers" },
         { clue: "Shot in the Dark: Triangle between Hospital, Fitzroy Gardens, Southern Cross Station", answer: "Shot Tower" },
         { clue: "The 3rd word on the plaque beneath the Dark Knight", answer: "Melbourne" },
         { clue: "Janet Clarke Bible", answer: null }
