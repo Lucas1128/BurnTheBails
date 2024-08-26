@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scavenger Hunt</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div><img src="BTBLogo.png"></div>
     <h1>THE AMAZING RACE</h1>
-    <div id="clue"></div>
-    <div id="input-container">
-        <input type="text" id="answer" />
-        <button id="submit-btn">Submit</button>
+    <div class="container">
+        <div id="clue-container" class="text-center mt-5">
+            <h1 id="clue">Welcome to the Scavenger Hunt!</h1>
+            <div id="input-container" class="mt-4">
+                <input type="text" id="answer" class="form-control" placeholder="Enter your answer">
+                <button id="submit-btn" class="btn btn-primary mt-3">Submit</button>
+            </div>
+            <p id="error-message" class="text-danger mt-2"></p>
+        </div>
     </div>
-    <div id="error-message"></div>
-    <script src="your-script.js"></script>
+
+    <script src="script.js"></script>
 </body>
 </html>
-
