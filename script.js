@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', function() {
         { clue: "Go to the State Library and Find Lucas for your next Challenge", answer: "ACMI" },
         { clue: '<img src="PACMAN.png" alt="Clue Image - Msg Lucas if you cant see it"><p>Explore the depths of ACMI to uncover this arcade machine. Achieve a score of 1000 points. Your clue lies in the word inscribed in the top right corner of the machine</p>', answer: "Midway" },
         { clue: '<audio controls><source src="clue.m4a" type="audio/mpeg">Your browser does not support the audio element.</audio><p>Find Max on the Second Floor of this Flinders Street Icon</p>', answer: "Tower" },
-        { clue: "Shot In the Dark Triangle between Hospital, Fitzroy Gardens, Southern Cross Station", answer: "Shot Tower" },
-        { clue: "The 3rd word on the plaque beneath the Dark Knight", answer: "Melbourne" },
-        { clue: "Janet Clarke Bible", answer: null }
+        { clue: '<img src="newimage.png" alt="Clue Picture - Msg Lucas if you cant see it"><p>Take a Shot at Triangulating these Locations - where are you?</p>', answer: "Shot Tower" },
+        { clue: "This is your final resting place, Pay your respects to Lady Janet | Answer: (Their Children Rise Up And Call them ____)", answer: "Blessed" },
+        { clue: "You have completed the amazing race. Your prize will be found in the book The Legacy of Greece 913.38 LIV somewhere in one of the bookshelves at JCH", answer: null }
     ];
 
     let currentClueIndex = 0;
