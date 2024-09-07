@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const clues = [
         { clue: "Uncover the Location; the fifth word on the location will guide you?", answer: "Parramatta" },
-        { clue: '<img src="newimage.png" alt="Clue Image"><p>Who is he pointing at?</p>', answer: "St George" },
+        { clue: '<img src="newimage.png" alt="Clue Picture - Msg Lucas if you cant see it"><p>Who is he pointing at?</p>', answer: "St George" },
         { clue: "Go to the State Library and Find Lucas for your next Challenge", answer: "ACMI" },
-        { clue: "Explore the depths of ACMI to uncover this arcade machine. Achieve a score of 1000 points. Your clue lies in the word inscribed in the top right corner of the machine.", answer: "Midway" },
+        { clue: '<img src="PACMAN.png" alt="Clue Image - Msg Lucas if you cant see it"><p>Explore the depths of ACMI to uncover this arcade machine. Achieve a score of 1000 points. Your clue lies in the word inscribed in the top right corner of the machine</p>', answer: "Midway" },
         { clue: '<audio controls><source src="clue.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>', answer: "3 Burgers" },
         { clue: "Shot In the Dark Triangle between Hospital, Fitzroy Gardens, Southern Cross Station", answer: "Shot Tower" },
         { clue: "The 3rd word on the plaque beneath the Dark Knight", answer: "Melbourne" },
