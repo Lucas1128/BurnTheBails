@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const clues = [
-        { clue: "What is Janet Clarkes Maidan Name?", answer: "SNODGRASS" },
+        { clue: "Uncover the Location; the fifth word on the location will guide you?", answer: "Parramatta" },
         { clue: "-37.791669520072645, 144.96187222512796", answer: "Kaz" },
         { clue: '<img src="image.png" alt="Clue Image"><p>What\'s the 4th word on the plaque of the statue?</p>', answer: "Horse" },
         { clue: "America Canada Mexico India", answer: "Max" },
