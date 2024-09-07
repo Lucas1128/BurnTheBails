@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const clues = [
         { clue: "Uncover the Location; the fifth word on the location will guide you?", answer: "Parramatta" },
         { clue: "-37.791669520072645, 144.96187222512796", answer: "Kaz" },
-        { clue: '<img src="image.png" alt="Clue Image"><p>What\'s the 4th word on the plaque of the statue?</p>', answer: "Horse" },
+        { clue: '<img src="newimage.png" alt="Clue Image"><p>What\'s the 4th word on the plaque of the statue?</p>', answer: "Horse" },
         { clue: "America Canada Mexico India", answer: "Max" },
         { clue: '<audio controls><source src="clue.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>', answer: "3 Burgers" },
         { clue: "Shot In the Dark Triangle between Hospital, Fitzroy Gardens, Southern Cross Station", answer: "Shot Tower" },
